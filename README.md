@@ -65,7 +65,7 @@ Building a complete frontend workflow without a backend
 
 🚀 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/your-username/recipe-manager.git
+git clone https://github.com/akshat200430/Recipe-Manager-React-Project.git
 
 2️⃣ Navigate to the project folder
 cd recipe-manager
