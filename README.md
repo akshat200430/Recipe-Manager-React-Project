@@ -2,6 +2,7 @@
 
 Recipe Manager is a frontend-only web application built using React.js and Tailwind CSS.
 It allows users to create, manage, and save recipes using browser LocalStorage, without any backend or authentication.
+website link: https://recipe-manager-black.vercel.app/
 
 This project was built to practice core React concepts and simulate real-world CRUD functionality on the frontend.
 
