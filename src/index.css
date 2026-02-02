@@ -1,0 +1,25 @@
+@import "tailwindcss";
+html,
+body,
+#root {
+  min-height: 100%;
+  background-color: #1f2937; /* slate-950 / blue-950 vibe */
+}
+
+.edit-form {
+  opacity: 0;
+  transform: translateY(-30px) scale(0.97);
+  transition:
+    opacity 0.7s ease,
+    transform 0.7s ease;
+}
+
+.edit-form.edit-show {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+}
+
+.edit-form.edit-hide {
+  opacity: 0;
+  transform: translateY(30px) scale(0.97);
+}
