@@ -40,6 +40,9 @@ const About = () => {
           </ul>
         </div>
 
+         <h1 className="inline">GitHub Repo :</h1>          <a href="https://github.com/akshat200430/recipe-manager-react" target="blank">https://github.com/akshat200430/recipe-manager-react</a>
+
+
         <div className="text-center">
           <h2 className="text-2xl font-semibold mb-4">👋 About Me</h2>
           <p className="text-gray-300 text-lg leading-relaxed">

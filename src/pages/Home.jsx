@@ -2,7 +2,10 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   return (
+    
     <div className="min-h-screen rounded-3xl mt-3 bg-gradient-to-br from-blue-950 via-slate-900 to-black text-white px-6 py-16">
+
+
       <div className="max-w-4xl mx-auto text-center">
         <h1 className="text-4xl sm:text-5xl font-bold mb-4">
           🍽️ Your Personal Recipe Manager
